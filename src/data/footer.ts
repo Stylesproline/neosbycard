@@ -23,7 +23,7 @@ export const footerDetails: {
         }
     ],
     email: 'trendingbel@yandex.ru',
-    telephone: '375447970892',
+    telephone: '+375447970892',
     socials: {
         // github: 'https://github.com',
          x: 'https://twitter.com/x',
