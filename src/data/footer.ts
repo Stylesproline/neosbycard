@@ -22,8 +22,8 @@ export const footerDetails: {
             url: "#testimonials"
         }
     ],
-    email: '#',
-    telephone: '#',
+    email: 'trendingbel@yandex.ru',
+    telephone: '375447970892',
     socials: {
         // github: 'https://github.com',
          x: 'https://twitter.com/x',
