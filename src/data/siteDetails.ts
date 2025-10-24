@@ -1,5 +1,5 @@
 export const siteDetails = {
-    siteName: 'neosbycards',
+    siteName: 'neosbycard',
     siteUrl: '#',
     metadata: {
         title: 'Бесконтактные NFC карты.Лучший инструмент продвижения отзывов',
