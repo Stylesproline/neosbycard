@@ -3,7 +3,7 @@ import { IPricing } from "@/types";
 export const tiers: IPricing[] = [
     {
         name: 'NFC карта для Google Maps| Яндекс карт',
-        price: '39 BYN' ,
+        price: '20 BYN' ,
         features: [
             'Увеличение количества отзывов за считанные секунды',
             'Бесплатная доставка',
@@ -13,7 +13,7 @@ export const tiers: IPricing[] = [
     },
     {
         name: 'Умная визитка с NFC',
-        price: '45 BYN',
+        price: '25 BYN',
         features: [
             'Передача контактов одно касание',
             'Бесплатная доставка',
