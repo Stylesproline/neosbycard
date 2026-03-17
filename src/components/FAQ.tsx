@@ -17,7 +17,7 @@ const FAQ: React.FC = () => {
                     <p className="lg:mt-10 text-foreground-accent text-center lg:text-left">
                         Остались вопросы.Звоните прямо сейчас!
                     </p>
-                    <a href="tel:+375447970892" className="mt-3 block text-xl lg:text-4xl text-secondary font-semibold hover:underline text-center lg:text-left">🤳🏼(44)7970892</a>
+                    <a href="tel:+375447970892" className="mt-3 block text-xl lg:text-4xl text-secondary font-semibold hover:underline text-center lg:text-left"></a>
                 </div>
 
                 <div className="w-full lg:max-w-2xl mx-auto border-b">
